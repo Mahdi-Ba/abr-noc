@@ -1,0 +1,5 @@
+aiohttp
+asyncio
+celery
+aiohttp[client]
+requests
